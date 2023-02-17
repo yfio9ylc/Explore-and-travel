@@ -334,19 +334,19 @@ p {
 }
 
 .card-item.card-item-raja {
-    background-image: url(../images/Raja_Ampat.jpg);
+    background-image: url('../images/Raja_Ampat.jpg');
 }
 
 .card-item.card-item-Fanjingshan {
-    background-image: url(../images/Fanjingshan.jpg);
+    background-image: url('../images/Fanjingshan.jpg');
 }
 
 .card-item.card-item-vevey {
-    background-image: url(../images/Vevey.jpg);
+    background-image: url('../images/Vevey.jpg');
 }
 
 .card-item.card-item-skadar {
-    background-image: url(../images/Skadar.jpg);
+    background-image: url('../images/Skadar.jpg');
 }
 
 .place {
@@ -429,7 +429,7 @@ p {
 }
 
 .photo-img {
-    background-image: url(../images/photo.jpg);
+    background-image: url('../images/photo.jpg');
 }
 
 .strelki {
